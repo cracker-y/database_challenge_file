@@ -2,3 +2,5 @@ db_profile.py
 __pycache__/
 *.pyc
 .idea/
+MongoDBQuizDay8.py
+.venv/
